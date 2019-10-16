@@ -1,3 +1,3 @@
-const uselss = () => 'you wasted time here!'
+const useless = () => 'you wasted time here!'
 
 module.exports = useless;
